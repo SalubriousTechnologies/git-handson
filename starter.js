@@ -4,4 +4,8 @@ function looper() {
     .map((_i) => ".");
 }
 
-console.log(looper());
+
+function add(){
+  return 2+5;
+}
+console.log(add());
