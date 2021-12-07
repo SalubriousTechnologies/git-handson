@@ -5,3 +5,9 @@ function looper() {
 }
 
 console.log(looper());
+
+const shivansh = () => {
+  console.log("Hi There !!");
+};
+
+shivansh();
