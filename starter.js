@@ -4,6 +4,11 @@ function looper() {
     .map((_i) => ".");
 }
 
+function add(){
+  return 2+5;
+}
+console.log(add());
+
 console.log(looper());
 
 const shivansh = () => {
