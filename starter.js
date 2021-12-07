@@ -13,3 +13,5 @@ const shivansh = () => {
 };
 
 console.log(add());
+
+console.log(looper());
